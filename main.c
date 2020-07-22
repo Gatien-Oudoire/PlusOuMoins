@@ -29,4 +29,6 @@ int main()
 
     }
     printf("Bien Joue !");
+    
+    return 0;
 }
